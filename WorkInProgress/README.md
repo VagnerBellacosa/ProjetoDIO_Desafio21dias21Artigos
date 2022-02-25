@@ -1,6 +1,6 @@
 # Projeto DIO   
 
-![ArtigosDIO](C:\Workspace\bootcamps\Desafio21\WorkInProgress\Image\ArtigosDIO.png)
+![ArtigosDIO](Image\ArtigosDIO.png)
 
 ## ProjetoDIO_Desafio21dias21Artigos  
 
@@ -12,7 +12,7 @@ Para comemorar este evento que mudou a minha vida. Apresento a proposta de Proje
 
 ### DESAFIO WEB.DIO.ME 21 dias 21 artigos
 
-![LabsDesafio](C:\Workspace\bootcamps\Desafio21\WorkInProgress\Image\LabsDesafio.png)
+![LabsDesafio](Image\LabsDesafio.png)
 
 Uma forma de atrair, acolher, integrar e aprimorar a experiência educacional em nossa plataforma, inúmeros estudos confirmam que ao escrevermos sobre um assunto especifico a taxa de retenção do conhecimento é aumentada em 35% e a longo prazo as sinapses neurais nao desfragmentam-se mantendo o conhecimento adquirido por mais tempo. Incentivando a escrita iremos aprimorar a experiência.
 
@@ -26,10 +26,11 @@ Claro que existe reveses, iremos criar demanda de servidores e aumentar o  gasto
 
 #### Custos envolvidos
 
-Custos de analise, desenvolvimento e deploy
-Custos de aumento de trafego
-Custos de aumento no alojamento
-Custos de LOGs e chamadas ao HelpDesk
+- Equipe Técnica
+	 - 🤷🏻 Custos de analise, desenvolvimento e deploy
+	 - 🤷🏻 Custos de aumento de trafego
+	 - 🤷🏻 Custos de aumento no alojamento
+	 - 🤷🏻 Custos de LOGs e chamadas ao HelpDesk
 
 #### Premiação
 
@@ -37,39 +38,43 @@ Ira inflacionar o ecossistema, porem como é aberto a todos e sem data de expira
 
 A cada artigo 100 XP e 10 Reputação ( 2100 XP e 210 Reputação)
 
-Badge 21 Artigos Start e Diploma Inicio do Desafio 40 XP
+![artigo](Image\artigo.png)Badge 21 
 
-Badge 21 Artigos Champion e diploma Conclusão do Desafio 
+​	Artigos Start e Diploma Inicio do Desafio 40 XP
 
-Padawan Badge 42 artigos publicados 40 XP 10 Reputação
+<img src="Image\livros.png" alt="livros" style="zoom:80%;" />Badge 21 
 
-Jedi Badge 84 artigos publicados 40 XP 10 Reputação
+​	Artigos Champion e diploma Conclusão do Desafio 
 
-Mestre Jedi Badge 168 artigos publicados 40 XP 10 Reputação
+![YodaBaby](Image\YodaBaby.png)Padawan Badge 
 
-Anciao Jedi Badge 336 artigos publicados 40 XP 10 Reputação
+​	42 artigos publicados 40 XP 10 Reputação
+
+![Yoda](Image\Yoda.png)Jedi Badge 
+
+​	84 artigos publicados 40 XP 10 Reputação
+
+![yodaJedi](Image\yodaJedi.png)Mestre Jedi Badge 
+
+​	168 artigos publicados 40 XP 10 Reputação
+
+![yodaMestre](Image\yodaMestre.png)Ancião Jedi Badge 
+
+​	336 artigos publicados 40 XP 10 Reputação
 
 ### Workflow
 
 Tela inicial
 
-<img src="C:\Workspace\bootcamps\Desafio21\WorkInProgress\Image\LabsDesafio.png" alt="LabsDesafio" style="zoom:70%;" />
+<img src="Image\LabsDesafio.png" alt="LabsDesafio" style="zoom:70%;" />
 
 Exemplo de Navegação, acessando o Desafio 1 a 3
 
-![EntregaDeDesafio](C:\Workspace\bootcamps\Desafio21\WorkInProgress\Image\EntregaDeDesafio.png)
+![EntregaDeDesafio](Image\EntregaDeDesafio.png)
 
 Exemplo de Navegação Entregue o Desafio #1
 
-![EntregaDe Artigo](C:\Workspace\bootcamps\Desafio21\WorkInProgress\Image\EntregaDe Artigo.png)
-
-
-
-
-
-
-
-
+![EntregaDe Artigo](Image\EntregaDe Artigo.png)
 
 #### Controle e algoritmo
 
@@ -79,16 +84,17 @@ Serão 21 linhas de input para inclusao da url do artigo, sistema CRUD
 
 Após inserir a url e salvar as alterações, será startado um processo batch para validação.
 
-Devera validar url valida
-Devera validar se o artigo  em questao pertence ao aluno
-Devera validar minimo de 400 palavras
-Devera validar existencia de palavras da Black List
-Devera validar a existencia de hastags
-Outras valiçoes que julgarem necessaria
+- Validaçoes basicas
+	- Devera validar url valida
+	- Devera validar se o artigo  em questao pertence ao aluno
+	- Devera validar minimo de 400 palavras
+	- Devera validar existencia de palavras da Black List
+	- Devera validar a existencia de hastags
+	- Outras valiçoes que julgarem necessaria
 
 Após processo OK, efetivar pontos no Score
 
-Em caso de Delete do Artigo, remover pontos do Score
-Em caso de Update revalidar artigo
+- Em caso de Delete do Artigo, remover pontos do Score
+- Em caso de Update revalidar artigo
 
 As tarefas serão encadeadas, liberando uma a uma, após conclusão com sucesso da anterior, em caso de Delete a próxima é bloqueada.
