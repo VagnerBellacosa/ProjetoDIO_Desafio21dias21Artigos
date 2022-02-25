@@ -37,16 +37,16 @@ Obrigado
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/VagnerBellacosa/DIO_Bootcamps.svg?style=for-the-badge
-[contributors-url]: https://github.com/VagnerBellacosa/DIO_Bootcamps/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/VagnerBellacosa/DIO_Bootcamps.svg?style=for-the-badge
-[forks-url]: https://github.com/VagnerBellacosa/DIO_Bootcamps/network/members
-[stars-shield]: https://img.shields.io/github/stars/VagnerBellacosa/DIO_Bootcamps.svg?style=for-the-badge
-[stars-url]: https://github.com/VagnerBellacosa/DIO_Bootcamps/stargazers
-[issues-shield]: https://img.shields.io/github/issues/VagnerBellacosa/DIO_Bootcamps.svg?style=for-the-badge
-[issues-url]: https://github.com/VagnerBellacosa/DIO_Bootcamps/issues
-[license-shield]: https://img.shields.io/github/license/VagnerBellacosa/DIO_Bootcamps.svg?style=for-the-badge
-[license-url]: https://github.com/VagnerBellacosa/DIO_Bootcamps/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/VagnerBellacosa/ProjetoDIO_Desafio21dias21Artigos.svg?style=for-the-badge
+[contributors-url]: https://github.com/VagnerBellacosa/ProjetoDIO_Desafio21dias21Artigos/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/VagnerBellacosa/ProjetoDIO_Desafio21dias21Artigos.svg?style=for-the-badge
+[forks-url]: https://github.com/VagnerBellacosa/ProjetoDIO_Desafio21dias21Artigos/network/members
+[stars-shield]: https://img.shields.io/github/stars/VagnerBellacosa/ProjetoDIO_Desafio21dias21Artigos.svg?style=for-the-badge
+[stars-url]: https://github.com/VagnerBellacosa/ProjetoDIO_Desafio21dias21Artigos/stargazers
+[issues-shield]: https://img.shields.io/github/issues/VagnerBellacosa/ProjetoDIO_Desafio21dias21Artigos.svg?style=for-the-badge
+[issues-url]: https://github.com/VagnerBellacosa/ProjetoDIO_Desafio21dias21Artigos/issues
+[license-shield]: https://img.shields.io/github/license/VagnerBellacosa/ProjetoDIO_Desafio21dias21Artigos.svg?style=for-the-badge
+[license-url]: https://github.com/VagnerBellacosa/ProjetoDIO_Desafio21dias21Artigos/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/VagnerBellacosa/
 [product-screenshot]: WorkInProgress/Image/Desafio21Dias21Artigos.png  
