@@ -1,6 +1,6 @@
 # Projeto DIO   
 
-![ArtigosDIO](Image\ArtigosDIO.png)
+![ArtigosDIO](Image/ArtigosDIO.png)
 
 ## ProjetoDIO_Desafio21dias21Artigos  
 
@@ -12,7 +12,7 @@ Para comemorar este evento que mudou a minha vida. Apresento a proposta de Proje
 
 ### DESAFIO WEB.DIO.ME 21 dias 21 artigos
 
-![LabsDesafio](Image\LabsDesafio.png)
+![LabsDesafio](Image/LabsDesafio.png)
 
 Uma forma de atrair, acolher, integrar e aprimorar a experiência educacional em nossa plataforma, inúmeros estudos confirmam que ao escrevermos sobre um assunto especifico a taxa de retenção do conhecimento é aumentada em 35% e a longo prazo as sinapses neurais nao desfragmentam-se mantendo o conhecimento adquirido por mais tempo. Incentivando a escrita iremos aprimorar a experiência.
 
@@ -38,27 +38,27 @@ Ira inflacionar o ecossistema, porem como é aberto a todos e sem data de expira
 
 A cada artigo 100 XP e 10 Reputação ( 2100 XP e 210 Reputação)
 
-![artigo](Image\artigo.png)Badge 21 
+![artigo](Image/artigo.png)Badge 21 
 
 ​	Artigos Start e Diploma Inicio do Desafio 40 XP
 
-<img src="Image\livros.png" alt="livros" style="zoom:80%;" />Badge 21 
+<img src="Image/livros.png" alt="livros" style="zoom:80%;" />Badge 21 
 
 ​	Artigos Champion e diploma Conclusão do Desafio 
 
-![YodaBaby](Image\YodaBaby.png)Padawan Badge 
+![YodaBaby](Image/YodaBaby.png)Padawan Badge 
 
 ​	42 artigos publicados 40 XP 10 Reputação
 
-![Yoda](Image\Yoda.png)Jedi Badge 
+![Yoda](Image/Yoda.png)Jedi Badge 
 
 ​	84 artigos publicados 40 XP 10 Reputação
 
-![yodaJedi](Image\yodaJedi.png)Mestre Jedi Badge 
+![yodaJedi](Image/yodaJedi.png)Mestre Jedi Badge 
 
 ​	168 artigos publicados 40 XP 10 Reputação
 
-![yodaMestre](Image\yodaMestre.png)Ancião Jedi Badge 
+![yodaMestre](Image/yodaMestre.png)Ancião Jedi Badge 
 
 ​	336 artigos publicados 40 XP 10 Reputação
 
@@ -66,15 +66,15 @@ A cada artigo 100 XP e 10 Reputação ( 2100 XP e 210 Reputação)
 
 Tela inicial
 
-<img src="Image\LabsDesafio.png" alt="LabsDesafio" style="zoom:70%;" />
+<img src="Image/LabsDesafio.png" alt="LabsDesafio" style="zoom:70%;" />
 
 Exemplo de Navegação, acessando o Desafio 1 a 3
 
-![EntregaDeDesafio](Image\EntregaDeDesafio.png)
+![EntregaDeDesafio](Image/EntregaDeDesafio.png)
 
 Exemplo de Navegação Entregue o Desafio #1
 
-![EntregaDe Artigo](Image\EntregaDe Artigo.png)
+![EntregaDe Artigo](Image/EntregaDe Artigo.png)
 
 #### Controle e algoritmo
 
@@ -98,3 +98,5 @@ Após processo OK, efetivar pontos no Score
 - Em caso de Update revalidar artigo
 
 As tarefas serão encadeadas, liberando uma a uma, após conclusão com sucesso da anterior, em caso de Delete a próxima é bloqueada.
+
+
