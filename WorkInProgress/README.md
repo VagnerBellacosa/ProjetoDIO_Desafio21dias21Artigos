@@ -74,7 +74,7 @@ Exemplo de Navegação, acessando o Desafio 1 a 3
 
 Exemplo de Navegação Entregue o Desafio #1
 
-![EntregaDe Artigo](Image/EntregaDe Artigo.png)
+![EntregaDe Artigo](Image/EntregaDeArtigo.png)
 
 #### Controle e algoritmo
 
