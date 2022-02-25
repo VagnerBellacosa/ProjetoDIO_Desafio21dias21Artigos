@@ -6,9 +6,9 @@ Uma maneira gameficada de dar boas vindas, auxiliar a melhorar soft-skills, fome
 
 Projeto open-source, es livre para participar e incluir comentário.
 
-![fork](Image\fork.png) Fork o projeto
+![fork](WorkInProgress/Image/fork.png) Fork o projeto
 
-![DeathStar](Image\DeathStar.png)Nao esqueça da estrelinha.
+![DeathStar](WorkInProgress/Image/DeathStar.png)Nao esqueça da estrelinha.
 
 Obrigado
 
