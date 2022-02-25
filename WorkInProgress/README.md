@@ -74,7 +74,7 @@ Exemplo de Navegação, acessando o Desafio 1 a 3
 
 Exemplo de Navegação Entregue o Desafio #1
 
-![EntregaDe Artigo](Image/EntregaDe Artigo.png)
+![EntregaDe Artigo](Image/EntregaDeArtigo.png)
 
 #### Controle e algoritmo
 
@@ -84,7 +84,7 @@ Serão 21 linhas de input para inclusao da url do artigo, sistema CRUD
 
 Após inserir a url e salvar as alterações, será startado um processo batch para validação.
 
-- Validaçoes basicas
+- Validações básicas
 	- Devera validar url valida
 	- Devera validar se o artigo  em questao pertence ao aluno
 	- Devera validar minimo de 400 palavras
@@ -99,4 +99,17 @@ Após processo OK, efetivar pontos no Score
 
 As tarefas serão encadeadas, liberando uma a uma, após conclusão com sucesso da anterior, em caso de Delete a próxima é bloqueada.
 
+## Novas Habilidades
+
+![Novas Habilidades](Image/NovasHabilidades.png)
+
+Os DEVs na conclusão do Desafio ganharam novas habilidades em Soft Skill.
+
+As habilidades elencadas devem receber pontuação.
+
+- Analise
+- Raciocínio Logico
+- Empenho
+- Empatia
+- Escrita
 
